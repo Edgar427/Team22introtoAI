@@ -1,0 +1,11 @@
+Date,From,To,Subject,Message
+"Mon, 14 Jan 2002 15:43:48 -0800 (PST)","Keiser, Kam","Winfree, O'Neal D.; Giron, Darron C.; Valdes, John; Palmer, B. Scott; Love, Phillip M.",estate files,"Hal:
+The following file appeared to work fine - \\nahou\houston\common\erms\Docs\XL_estate\01\Hal\HS_FT-Wellhead.xls.
+
+However, some of the other files had a data source message box (see below) appear when I hit the GRMS Macro:
+Files that did not connect:
+\\nahou\houston\common\erms\Docs\XL_estate\01\Felicia\Copy of HS_IM-East-Gulf.xls
+\\nahou\houston\common\erms\Docs\XL_estate\01\Sanjeev\HS_IM-East-Mkt.xls
+\\nahou\houston\common\erms\Docs\XL_estate\01\Cecilia\HS_FT-EAST.xls
+ 
+Let me know if this is expected."

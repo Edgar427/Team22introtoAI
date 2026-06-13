@@ -1,0 +1,6 @@
+Date,From,To,Subject,Message
+"Tue, 29 Jan 2002 15:29:12 -0800 (PST)","McKinney, Hal","Rivera, Oscar; Lin, Yi; Khuri, Basem; Frisbie, Randal; Woo, Tai; Cirlig, Bogdan; Fraylon, Damon; Leggett, Tim; Gupta, Sanjeev; Ma, Felicia; Cheung, Cecilia; Pathak, Sanjesh; Arellano, Fabian Dan",Netco(UBSWenergy) Excel Conversions,"Hello Randy & James,
+
+Below are the forwarded instructions as to how we plan to update the excel dsn's for netco(UBSWenergy).  Only test excels in ""_converted"" folders, then create/move successful tests to a ""_tested"" folder (within the corresponding ""_converted"" folder).  
+
+Call me if you have any prob/questions."

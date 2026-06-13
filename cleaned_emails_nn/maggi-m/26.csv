@@ -1,0 +1,24 @@
+Date,From,To,Subject,Message
+"Wed, 6 Feb 2002 13:06:51 -0800 (PST)",stephanie.sever@enron.com,mike.maggi@enron.com,Access to UBSWenergy Production Environment,"Your PRODUCTION User ID and Password has been set up on UBSWenergy.  Please follow the steps below to access the new environment:
+
+From Internet Explorer connect to the UBSWenergy Production Cluster through the following link:
+http://remoteservices.netco.enron.com/ica/ubswenergy.ica  (use your UBSWenergy/Enron NT Log In & Password)
+
+From the second Start menu,  select appropriate application:
+
+STACK MANAGER
+User ID: mmaggi
+Password: q#9M#npX	(Please Change)
+
+Below is a special internal use only link for the simulation purposes only to get to the trading area of the website.
+DO NOT PROVIDE THIS LINK TO ANYONE NOT PART OF THE SIMULATION. 
+(customers should be directed to go to the direct link www.ubsenergy.com).
+
+http://www.ubswenergy.com/site_index.html  (FOR SIMULATION ONLY)
+
+WEBSITE - Book (FB-FINANCIAL 2)
+User ID: MUS85730
+Password: WELCOME!
+PLEASE DO NOT TRANSACT BEFORE SIMULATION TOMORROW!
+
+Should you have any questions or issues, please contact me at x33465 or the Call Center at 713-584-4444"

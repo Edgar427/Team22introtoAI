@@ -1,0 +1,19 @@
+Date,From,To,Subject,Message
+"Wed, 21 Nov 2001 10:36:33 -0800 (PST)",d.alexander@enron.com,tori.kuykendall@enron.com,Curve Data,"Tori                                      
+ 
+Here are the numbers I have for you to review.
+
+Ive sent you two types of files for:  
+	> MKM data
+	> CurveFetch
+
+They show GDP-SOCAL for the period of 11/20/00 thru 11/21/01.  
+* MKM data ends at 11/13/01
+
+The MKM .XML uses the following format to describe a curvepoint
+  <P>
+  <E>2001-06-27 14:57:37</E>  	-- Effective Date
+  <RS>2000-12-20 00:00:00</RS> 	-- Revision Date Start
+  <RF>2000-12-20 00:00:00</RF> 	-- Revision Date End
+  <V>19.56</V> 				-- Price	
+  </P>"

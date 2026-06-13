@@ -1,0 +1,10 @@
+Date,From,To,Subject,Message
+"Wed, 24 Oct 2001 07:35:04 -0700 (PDT)",michael.jacobson@enron.com,m..forney@enron.com,ERCOT counterparties,"John,
+
+Per our conversation yesterday this is an email to clarify the ERCOT counterparty names that are in EnPower...
+
+ERCOT Imbalance - ERCOT-IMBA - this counterparty is for commodities (must select a delivery point and have a zero price)
+EPMI-ERCOT-POOL - EPMI-ERCOT - this counterparty is for transmission only (zero price)
+
+
+Electric Reliability Council of Texas, Inc. - ERCOT - this counterparty is for interdesk annuities"

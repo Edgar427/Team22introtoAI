@@ -1,0 +1,3 @@
+Date,From,To,Subject,Message
+"Fri, 7 Dec 2001 13:19:22 -0800 (PST)","Amador, Susan","Williams III, Bill; Symes, Kate",spreadsheets,"Susan -
+I just tested the schedule pull again and found one more deal type we need to exclude - ANNUITIES. The download pulls in purchase and sale annuities as regular forward purchases and sales, recognizing the average price as the total annuity price, which is, obviously, wrong. Anyway, when you get a chance could you exclude these deals from the query as well?"

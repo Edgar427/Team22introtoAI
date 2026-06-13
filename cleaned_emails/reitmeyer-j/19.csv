@@ -1,0 +1,11 @@
+Date,From,To,Subject,Message
+"Thu, 25 Oct 2001 06:48:34 -0700 (PDT)",d.alexander@enron.com,"d.alexander@enron.com, justin.o'malley@enron.com, chris.gaskill@enron.com,",Report Performance,"We received performance figures from our DBA for the new server.
+
+The numbers indicate processes on the server were outstripping physical
+RAM memory -- which can cause the server to slow down.  In answer to 
+this, server memory settings were tuned producing a minor but immediate 
+improvement in processing times.
+
+We next need to reboot the server to allow the memory configuration changes 
+to take full effect and will be working on coordinating this with the other usres
+on the server today."

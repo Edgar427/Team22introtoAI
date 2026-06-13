@@ -1,0 +1,15 @@
+Date,From,To,Subject,Message
+"Wed, 17 Oct 2001 16:26:23 -0700 (PDT)",d.alexander@enron.com,"justin.o'malley@enron.com, chris.gaskill@enron.com, jay.reitmeyer@enron.com,",Database Migration,"Hi All,
+
+Reporting has been migrated to a new (it's own)  database server and 
+access to the old server has been disabled to ensure the currency of data.
+
+HOW THIS MIGHT AFFECT YOU:
+If you use tools that link to the Report Settings database, the 'pipeline' DSN on your 
+PC will need to be updated to point to the new server.  Specifically this applies to 
+anyone utilizing a Access database to link to the database tables.
+
+
+RESOLUTION:
+We will be targeting known users (Justin's Group and Jay) tomorrow.  
+However if you experience problems as a result of this change please contact me."

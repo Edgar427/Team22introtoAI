@@ -1,0 +1,79 @@
+Date,From,To,Subject,Message
+"Mon, 4 Feb 2002 08:59:53 -0800 (PST)","Smith, Regan M.=20","Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; =","PLEASE READ - Netco testing schedule for Monday, Feb 4th & Tuesday=","Updates for Today's NetCo regression test at 1:00pm:
+=20
+NT User Id's
+For testing, if you are NT user id that participated in the 'PILOT' group, =
+please use your PILOT id.
+Otherwise, use the nc_t_xxxx accounts as previous testing.  The NT conversi=
+on for all remaining NetCo is expected to take place tonight 02/04.
+=20
+Global Data
+Below is my current understanding of the counterparties used for testing.  =
+Contract setup is near complete and we will have the updates when deal entr=
+y starts.
+=20
+1305 UBS Warburg Energy LLC acting as agent for UBS AG, London Branch
+11266 UBS Canada Branch (name TBD)
+=20
+54979 Duke Energy Trading and Marketing, L.L.C.
+64245 Williams Energy Marketing & Trading Company
+65268 Reliant Energy Services, Inc.
+3015 Tennessee Gas Pipeline Co.
+    Storage Service Contract 20000059  (Agency Contract 20000062)=20
+    Transportation Contract 20000057
+=20
+The goals of the test are:
+1) regression test a subset of scenarios (ie Physical Gas Sale, Physical Po=
+wer Supply, Financial Swap, Intercomapny) now that the Global Data is more =
+stable (UBS internal counterparties, profit centers, desks/ books)=20
+2) Identify any reference to internal/ external screens that still have 'EN=
+RON' reference, or 'EOL' reference
+3) Ensure we have the latest price curve data from updates (ie TAGG/ERMS)
+4) process new EOL data created for Monday.  To verify mid/ back office, in=
+cluding SAP processing.   EOL will also push data from a mock trading sessi=
+on for on 2/7 (see below)=20
+5) provide the test data scenarios for SAP testing (scheduled Tuesday 1pm).=
+  SAP is completing their setup with the new controlling area for NetCo.=20
+6) Continue with NT Logins involved with PILOT untill remaining are ported.
+=20
+=20
+Regan=20
+=20
+ -----Original Message-----
+From: Smith, Regan M.=20
+Sent: Friday, February 01, 2002 1:50 PM
+To: Anastas, Sherry; Anderson, Bridgette; Aucoin, Evelyn; Baxter, Bryce; Be=
+ntley, Corry; Campos, Sylvia A.; Cason, Sharen; Dahlke, Andrea; Denton, Rho=
+nda L.; Elledge, Susan; Garcia, Clarissa; Hare, Bill D.; Heaney, Gordon; Hu=
+ntley, Kelley; McLaughlin Jr., Errol; Murphy, Melissa; Myers, Donnie; Sever=
+son, Russ; Stevens, Mechelle; Winfree, O'Neal D.
+Subject: Updates... PLEASE READ - Netco testing schedule for Monday, Feb 4t=
+h & Tuesday, Feb 5th
+Importance: High
+
+Updates...
+
+=20
+User Test Schedule
+Please review the attached user test schedule; I've updated for the name sw=
+aps as needed.
+The timeframe for SAP confirmation Tuesday 1pm, and I've moved Gas Settleme=
+nts to Tuesday am.  If time permits, we may be able to settle gas on Monday=
+ pm.
+=20
+Test Cases & Global Data
+The attached spreadsheet has the current global data and on tab page 2, the=
+ test cases.  We will still use the detailed test scenarios for entry.
+The global staff is updating the counterparties now/ and contracts to redis=
+tribute.
+=20
+I'm requesting for the deal entry users to please comment/ revise as to wha=
+t specific test cases are needed, and can be omitted.
+Unlike previous testing, we will be using real (active) counterparties, and=
+ need to test intercompany scenarios (UBS London to UBS Canada).
+We would like a subset for Power (ie 4), and a subset for Gas (6-8) that we=
+ can perform during this time.
+=20
+Can the respective Deal Entry groups discuss and send me your feedback toda=
+y?  I'm hoping to save calling a meeting.
+=20"

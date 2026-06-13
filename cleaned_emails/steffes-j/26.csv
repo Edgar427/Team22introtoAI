@@ -1,0 +1,48 @@
+Date,From,To,Subject,Message
+"Wed, 19 Dec 2001 08:09:39 -0800 (PST)",GJONES1@txu.com [mailto:GJONES1@txu.com],Buddy Burr,ENRON ACCOUNTS,"-----Original Message-----
+From: 	""Bergman, Karen"" <kbergman@ercot.com>@ENRON  
+Sent:	Tuesday, December 18, 2001 12:43 PM
+To:	Bergman, Karen; Twiggs, Thane; Wagner, Joseph
+Cc:	Harris, Diane; Parsons, Mark; Hailu, Ted; mbulk@apx.com; Richter, Tracy; Martindill, Angela
+Subject:	RE: ENRON ACCOUNTS
+Importance:	High
+
+Update 12/18/01
+
+ERCOT has successfully loaded 5 867_03 finals into our systems - these 5
+ESI IDs have completed the Drop to TDSP.  Enron should have received the
+867_03 finals for each ESI ID.
+
+10443720003625902
+10443720005335301
+10443720004233186
+10443720007738300
+10443720006522263
+
+ERCOT is working with TXU on the 4 ESI ID listed below.
+
+10443720004431331 - wrong DUNS sent in the file from TXU, didn't
+translate correctly at ERCOT.  TXU needs to please resend.
+10443720006871343 - need file name from TXU, ERCOT does not show receipt
+of file.
+10443720003630335 - need file name from TXU, ERCOT does not show receipt
+of file.
+10443720003001397 - need file name from TXU, ERCOT does not show receipt
+of file.
+
+ERCOT is working internal on the 2 ESI ID listed below.
+10443720003625902 - ERCOT has file from TXU, working to determine why
+ERCOT system did not update to Drop to TDSP, will process manually to
+drop if necessary, once we confirm that Enron does have the 867_03
+final.
+10443720005335301 - ERCOT has file from TXU, working to determine why
+ERCOT system did not update to Drop to TDSP, will process manually to
+drop if necessary, once we confirm that Enron does have the 867_03
+final.
+
+Please note, the meter read date from TXU is stated to be 12/13 for all
+11 ESI IDs.  Once we do get the information loaded into ERCOT system, it
+will reflect that Enron Energy Services stopped as CR of record on
+12/13/01.
+
+Questions, please contact me at 512-248-3171."

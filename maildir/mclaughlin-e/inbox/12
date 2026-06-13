@@ -1,0 +1,16 @@
+Date: Wed, 6 Feb 2002 09:14:07 -0800 (PST)
+From: d..winfree@enron.com
+To: errol.mclaughlin@enron.com
+Subject: FW:
+
+
+code for runM
+
+ -----Original Message-----
+From: 	Winfree, O'Neal D.  
+Sent:	Wednesday, February  6, 2002 10:40 AM
+To:	Cheung, Cecilia
+Cc:	Winfree, O'Neal D.; Keiser, Kam
+Subject:	
+
+/usr/openwin/bin/xterm -ls -sb -display @d -n $host -T $host -r -sl 3000

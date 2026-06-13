@@ -1,0 +1,115 @@
+Date: Wed, 23 Jan 2002 06:34:58 -0800 (PST)
+From: m..smith@enron.com
+To: a..allen@enron.com, bridgette.anderson@enron.com, diane.anderson@enron.com, 
+	evelyn.aucoin@enron.com, natalie.baker@enron.com, 
+	bryce.baxter@enron.com, corry.bentley@enron.com, bob.bowen@enron.com, 
+	r..brackett@enron.com, anthony.campos@enron.com, a..campos@enron.com, 
+	andrea.dahlke@enron.com, cheryl.dawes@enron.com, 
+	jennifer.denny@enron.com, l..denton@enron.com, mark.dupuy@enron.com, 
+	susan.elledge@enron.com, tom.engel@enron.com, casey.evans@enron.com, 
+	clarissa.garcia@enron.com, brian.gillis@enron.com, d..hare@enron.com, 
+	frank.hayden@enron.com, kevin.heal@enron.com, joe.hunter@enron.com, 
+	kelley.huntley@enron.com, tammy.jaquet@enron.com, c..kenne@enron.com, 
+	melba.lozano@enron.com, stephanie.mcginnis@enron.com, 
+	errol.mclaughlin@enron.com, kevin.meredith@enron.com, 
+	melissa.murphy@enron.com, r..price@enron.com, kathy.reeves@enron.com, 
+	rhonda.robinson@enron.com, bernice.rodriguez@enron.com, 
+	elaine.schield@enron.com, l..schrab@enron.com, dianne.seib@enron.com, 
+	russ.severson@enron.com, christopher.spears@enron.com, 
+	mechelle.stevens@enron.com, patti.sullivan@enron.com, 
+	tara.sweitzer@enron.com, s..theriot@enron.com, 
+	nikole.vander@enron.com, ellen.wallumrod@enron.com, 
+	d..winfree@enron.com, rita.wynne@enron.com, 
+	jaikishore.bharathi@enron.com, charles.brewer@enron.com, 
+	sundar.chitradurga@enron.com, steve.cinelli@enron.com, 
+	richard.elwood@enron.com, bill.fortney@enron.com, 
+	shawn.franks@enron.com, iain.greig@enron.com, 
+	hilburn.henry@enron.com, wade.hunter@enron.com, 
+	jeff.johnson@enron.com, s..lim@enron.com, bob.martinez@enron.com, 
+	richard.mckeel@enron.com, ron.nolte@enron.com, matt.pena@enron.com, 
+	david.poston@enron.com, d..powell@enron.com, 
+	ganapathy.ramesh@enron.com, ramesh.rao@enron.com, 
+	aftab.saleem@enron.com, terry.sanvido@enron.com, 
+	mark.schmidt@enron.com, chris.schomer@enron.com, 
+	steve.stock@enron.com, cynthia.clark@enron.com, 
+	lori.boudreaux@enron.com
+Subject: Today's integration test deferred to 2:00pm...
+
+
+In light of the offsite UBS meeting this morning, today's test will be move=
+d from 12:00 to 2:00pm.
+=20
+We will use the same global data already setup from Friday/ Tuesday.  Hence=
+, the deal entry phase can start at 2:00pm.
+An updated scheduled is attached.
+=20
+Regan Smith=20
+Energy Operations Systems=20
+Enron Net Works=20
+713-853-9291 (wk); 281-850-7551 (cell)=20
+
+-----Original Message-----
+From: Smith, Regan M.=20
+Sent: Tuesday, January 22, 2002 6:17 PM
+To: Allen, Thresa A.; Anderson, Bridgette; Anderson, Diane; Aucoin, Evelyn;=
+ Baker, Natalie; Baxter, Bryce; Bentley, Corry; Bowen, Bob; Brackett, Debbi=
+e R.; Campos, Anthony; Campos, Sylvia A.; Dahlke, Andrea; Dawes, Cheryl; De=
+nny, Jennifer; Denton, Rhonda L.; Dupuy, Mark; Elledge, Susan; Engel, Tom; =
+Evans, Casey; Garcia, Clarissa; Gillis, Brian; Hare, Bill D.; Hayden, Frank=
+; Heal, Kevin; Hunter, Larry Joe; Huntley, Kelley; Jaquet, Tammy; Kenne, Da=
+wn C.; Lozano, Melba; Mcginnis, Stephanie; McLaughlin Jr., Errol; Meredith,=
+ Kevin; Murphy, Melissa; Price, Wade R.; Reeves, Kathy; Robinson, Rhonda; R=
+odriguez, Bernice; Schield, Elaine; Schrab, Mark L.; Seib, Dianne; Severson=
+, Russ; Spears, Christopher; Stevens, Mechelle; Sullivan, Patti; Sweitzer, =
+Tara; Theriot, Kim S.; Vander velde, Nikole; Wallumrod, Ellen; Winfree, O'N=
+eal D.; Wynne, Rita; Bharathi, Jaikishore; Brewer, Charles; Chitradurga, Su=
+ndar; Cinelli, Steve; Elwood, Richard; Fortney, Bill; Franks, Shawn; Greig,=
+ Iain; Henry, Jane Hilburn; Hunter, Wade; Johnson, Jeff; Lim, Francis S.; M=
+artinez, Bob; McKeel, Richard; Nolte, Ron; Pena, Matt; Poston, David; Powel=
+l, John D.; Ramesh, Ganapathy; Rao, Ramesh; Saleem, Aftab; Sanvido, Terry; =
+Schmidt, Mark; Schomer, Chris; Smith, Regan M.; Stock, Steve; Clark, Cynthi=
+a; Boudreaux, Lori
+Subject: Status report of integration testing from Tuesday, Jan. 22nd=20
+
+
+Status report of integration testing from Tuesday, Jan. 22nd=20
+    (completion of subset of Gas/ Power scenarios to test that all platform=
+ components are setup)
+=20
+We've completed the remainder of test scripts, including transmitting invoi=
+ces to SAP successfully!    =20
+And all reported testing issues are resolved (need confirmation by a few us=
+ers).  Thanks to all involved!
+=20
+It was very productive as 16 issues (8 from Unify) were identified and reso=
+lved (attached).
+A spreadsheet is attached of the outstanding/ resolved issues   If any test=
+ing issues are missing and not reflected, please email Terry Sanvido or mys=
+elf to assist with tracking and resolution.
+=20
+The importance of Wednesday's test below is: =20
+     (1) to test after all estate data removal is done; as if testing a Net=
+co 'go-live'
+     (2) to test all (15+) transaction scenarios 'end to end' test.
+=20
+A reminder of Aftab's email requesting your assistance is attached.
+=20
+Schedule for Wednesday 01/23 (complete set of scenarios to be tested)
+(1) By 11:00am - all IT systems to have deleted any estate data & backups c=
+ompleted
+(2) 11:00am - Global to repush any setup data if needed
+(3) 12:00pm - any global data setup by users (we may=20
+(4) 1:00pm - 5:00pm User integration test of all test scenarios.  The goal =
+is to test 'end to end' to ensure the all issues are resolved, and data rem=
+oval and resetup is valid.
+- Bridgeline open to discuss issues (800-711-8000; code #3454709)
+=20
+=20
+We appreciate your support as we work towards setting up the NETCO!
+=20
+
+Regan Smith=20
+Energy Operations Systems=20
+Enron Net Works=20
+713-853-9291 (wk); 281-850-7551 (cell)=20
+

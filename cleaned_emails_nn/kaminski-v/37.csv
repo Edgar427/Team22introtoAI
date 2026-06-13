@@ -1,0 +1,11 @@
+Date,From,To,Subject,Message
+"Thu, 31 May 2001 15:13:20 -0700 (PDT)","Draper, Lon","Lu, Zimin",Strip of Spread Options,"Paulo,
+
+Our Calgary office needs an option model that prices a strip of daily spread options.
+
+In Exotica, we have the Ostrip model that does a strip of daily European options.
+To modify that into spread option, we need to replace the EURO() function into 
+Spdopt()  function. 
+
+Lon would like to speak to you directly tomorrow about his specification. 
+I think one week or so is probably a reasonable time line for the delivery."

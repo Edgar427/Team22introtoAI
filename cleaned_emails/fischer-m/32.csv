@@ -1,0 +1,8 @@
+Date,From,To,Subject,Message
+"Fri, 19 Oct 2001 14:48:20 -0700 (PDT)","Swafford, John","Thompson, Michelle",Raptor Unwind Losses,"John,
+I made the entries in TIS.  The following taxes will be booked on IVEST2C, IVEST4C, and ENRON1C.  We have to book taxes to all three paths in Hyperion.  CPOTH4C did not have a Path 2 company set up in TIS so we switched to the IVEST companies.  The companies have been approved in TIS and should post back to Hyperion with the next load (currently scheduled for Monday).
+
+1825 - NC DFIT Exp	236,107,668
+0750 - NC DFIT Liab		(236,107,668)
+
+I will be out of the office on Monday & Tuesday.  Please call Robbie Lewis or Michelle Sharp if you need anything while I am out."

@@ -1,0 +1,4 @@
+Date,From,To,Subject,Message
+"Mon, 22 Oct 2001 11:46:00 -0700 (PDT)","Crooks, William","Forney, John M.",George Phillips,"John:
+
+	One more thing I neglected to mention.  Deal Blotter only refreshed lookups once per day, the first time it is run.  After that, you must do it manually.  When Deal Blotter comes up, you will see that one of the main menu items is ""Refresh.""  Choose Refresh, Lookups, All and the lookups will be refreshed.  That should solve the problem.  Sorry for not mentioning that earlier."

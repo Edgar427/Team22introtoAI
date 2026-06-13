@@ -1,0 +1,36 @@
+Date,From,To,Subject,Message
+"Tue, 1 Jan 2002 11:48:13 -0800 (PST)",weather@inbox.weather.com,mike.grigsby@enron.com,"Mike, here is your weather forecast for Houston, TX","<HTML>
+<HEAD>
+	<TITLE>Weather Inbox</TITLE>
+        <base HREF=""http://www.weather.com/"">
+</HEAD>
+<body bgcolor=""#FFFFFF"" text=""#000000"" leftmargin=""0"" topmargin=""0"" marginwidth=""0"" marginheight=""0"">
+<STYLE>
+	TD {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: black; }  
+	.myWxTitle {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: white; }  
+	.myWxTitle1 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: black; }  
+	.myWxTitle2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: 003399; }  
+	.drkWxTitle {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: black; }  
+	.redWxTitle {font-family:  Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: red; }  
+	.blueWxTitle {font-family:  Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: blue; }  	
+	.smallWxTitle {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: white; } 
+	.smallDrkWxTitle {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: normal; color: black; } 	
+        .categoryTitle { font-family: Verdana,Arial,Helvetica,Sans Serif; font-size: 10pt; font-weight: bold; color: black; } 
+        .bodyText { font-family: Arial,Helvetica,Sans Serif; font-size: 10pt; color: black; } 
+        .captionText { font-family: Arial,Helvetica,Sans Serif; font-size: 8pt; color: black; } 
+        .sectionTitle { font-family: Verdana,Arial,Helvetica,Sans Serif; font-size: 10pt; font-weight: bold; color: black; } 
+</STYLE>
+<table width=""550"" border=""1"" cellspacing=""0"" cellpadding=""0"" bordercolor=""#003399"">
+  <tr> 
+    <td><IMG SRC=""http://image.weather.com/services/email/email_head.jpg"" WIDTH=""600"" HEIGHT=""50""></td>
+  </tr>
+  <tr>
+    <td align=""center""> 
+      <table width=""590"" border=""0"" cellspacing=""0"" cellpadding=""0"">
+        <tr>
+          <td>
+            <table width=""590"" border=""0"" cellspacing=""0"" cellpadding=""3"">
+              <tr>
+                <td width=""270"" CLASS=""myWxTitle1"">Mike's weather for 1/1/2002</td>
+                <TD ALIGN=""RIGHT"" CLASS=""myWxTitle2"">
+                  <A CLASS=""myWxTitle2"" HREF=""http://registration.weather.com/registration/ursindex?product=IW"">Update Profile</A> | <A CLASS=""myWxTitle2"" HREF=""http://cgi.weather.com/cgi-bin/email/email_unsub.cgi?var1=268773&var2=c1iURXl5msY&m=m"">"

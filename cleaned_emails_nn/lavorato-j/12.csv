@@ -1,0 +1,4 @@
+Date,From,To,Subject,Message
+"Wed, 24 Oct 2001 09:47:46 -0700 (PDT)",jay.webb@enron.com,"louise.kitchen@enron.com, john.lavorato@enron.com",trade counts for October,"This spreadsheet shows trade counts by counterparty for the month of October.  Each column represents a date, starting from today going back to October 1.  Only counterparties with at least 500 trades in all of October are shown.  The yellow highlighted rows are those counterparties that appear to be off their typical trading pace.
+
+--jay"

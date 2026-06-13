@@ -1,0 +1,20 @@
+Date,From,To,Subject,Message
+"Mon, 13 May 2002 10:42:42 -0700 (PDT)",cheryl.johnson@enron.com,"chris.abel@enron.com, laurel.adams@enron.com,",Name Overlays 05/13/02,"The following name overlays were completed in GCP this morning.  I have been unable to update the report in Livelink, due to technical problems, which will hopefully be resolved tomorrow, May 14.  If additional information is required in the meantime, please contact me.
+
+These changes are as a result of a merger between PanCanadian Energy Corporation and Alberta Energy Corporation Ltd., effective 04/05/02.  The combined entity was renamed EnCana Corporation.
+
+CP ID	FROM					TO				Effective Date
+58009	AEC Marketing (USA) Inc.		EnCana Marketing (USA) Inc.	04/08/02
+58736	AEC Oil & Gas Partnership		EnCana Oil & Gas Partnership	04/08/02
+72509	AEC Storage and Hub Services Inc.	EnCana Gas Storage Inc.	04/08/02
+49597	AEC West Ltd.				EnCana West Ltd.		04/05/02
+90432	PanCanadian Energy Holdings Inc.	EnCana Energy Holdings Inc.	04/08/02
+
+Please note:  PanCanadian Energy Corporation did not previously exist as a global counterparty record.  Alberta Energy Corporation Ltd. still exists in that name, as a subsidiary of EnCana Corporation.  EnCana Corporation was created as a non-trading entity in GCP under CP ID 200474.
+
+Shortname changes will be coordinated with ERMS IT on Friday, May 17.
+
+Cheryl Johnson
+Enron Net Works
+Global Data Management
+713.853.3103"

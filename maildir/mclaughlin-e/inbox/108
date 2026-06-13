@@ -1,0 +1,68 @@
+Date: Wed, 9 Jan 2002 15:30:51 -0800 (PST)
+From: m..smith@enron.com
+To: terry.sanvido@enron.com, r..brackett@enron.com, d..hare@enron.com, 
+	frank.hayden@enron.com, tammy.jaquet@enron.com, 
+	errol.mclaughlin@enron.com, torrey.moorer@enron.com, 
+	bernice.rodriguez@enron.com, tara.sweitzer@enron.com, 
+	s..theriot@enron.com, d..winfree@enron.com, mark.dupuy@enron.com, 
+	brian.gillis@enron.com, kevin.heal@enron.com, 
+	richard.mckeel@enron.com, kathy.reeves@enron.com, 
+	dianne.seib@enron.com, nikole.vander@enron.com, 
+	diane.anderson@enron.com, bob.bowen@enron.com, a..campos@enron.com, 
+	clarissa.garcia@enron.com, marlene.hilliard@enron.com, 
+	joe.hunter@enron.com, r..price@enron.com, 
+	stacey.richardson@enron.com, l..schrab@enron.com, 
+	russ.severson@enron.com, christopher.spears@enron.com, 
+	patti.sullivan@enron.com, ellen.wallumrod@enron.com, 
+	rita.wynne@enron.com, sundar.chitradurga@enron.com, 
+	steve.cinelli@enron.com, richard.elwood@enron.com, 
+	shawn.franks@enron.com, iain.greig@enron.com, m..harmon@enron.com, 
+	wade.hunter@enron.com, jeff.johnson@enron.com, ron.nolte@enron.com, 
+	ganapathy.ramesh@enron.com, aftab.saleem@enron.com, 
+	a..allen@enron.com, evelyn.aucoin@enron.com, corry.bentley@enron.com, 
+	amy.clemons@enron.com, andrea.dahlke@enron.com, l..denton@enron.com, 
+	casey.evans@enron.com, ann.murphy@enron.com, 
+	rhonda.robinson@enron.com, mechelle.stevens@enron.com, 
+	matt.pena@enron.com, chris.schomer@enron.com, ramesh.rao@enron.com, 
+	hilburn.henry@enron.com, john.warner@enron.com
+Subject: Revised - Estate Integration Test Dry Run - 1/10/2002
+
+
+Everyone - 
+ 
+We've added another test scenario for tomorrow testing, Power Forward Sale - EnPower, to run through the Physical Power scenarios with EnPower and back end systems.
+ 
+According to the test templates, this results in adding the following members to tomorrows test schedule:
+    Correy Bentley - EnPower Scheduling
+    Rhonda Robinson - Unify Power Settlements 
+Of course, others may be needed during various phases.  Please attend during the time if you know your assistance will be needed.
+ 
+Review items:
+Goal of tomorrow's test execution:      To 'dry run' / test the master scripts compiled prior to this weekend's execution
+What test scenarios?                        Physical Term Purchase, Financial Swap, Power Forward Sale - EnPower
+Scripts are located in:                       O:\_Dropbox\IntegrationTestScripts\
+Where will the test be conducted?      Current Production. 
+What data will be used?                    New (dry run) counterparty information as defined by Global counterparty.
+ 
+Questions, please contact myself or Terry Sanvido at (x34754).
+ 
+Thanks,
+ 
+ 
+Regan Smith 
+713-853-9291 (wk); 281-850-7551 (cell) 
+
+-----Original Message-----
+From: Sanvido, Terry 
+Sent: Wednesday, January 09, 2002 4:03 PM
+To: Brackett, Debbie R.; Hare, Bill D.; Hayden, Frank; Jaquet, Tammy; McLaughlin Jr., Errol; Moorer, Torrey; Rodriguez, Bernice; Sweitzer, Tara; Theriot, Kim S.; Winfree, O'Neal D.; Dupuy, Mark; Gillis, Brian; Heal, Kevin; McKeel, Richard; Reeves, Kathy; Seib, Dianne; Vander velde, Nikole; Anderson, Diane; Bowen, Bob; Campos, Sylvia A.; Garcia, Clarissa; Hilliard, Marlene; Hunter, Larry Joe; Price, Wade R.; Richardson, Stacey; Schrab, Mark L.; Severson, Russ; Spears, Christopher; Sullivan, Patti; Wallumrod, Ellen; Wynne, Rita; Chitradurga, Sundar; Cinelli, Steve; Elwood, Richard; Franks, Shawn; Greig, Iain; Harmon, Kenneth M.; Hunter, Wade; Johnson, Jeff; Nolte, Ron; Ramesh, Ganapathy; Saleem, Aftab; Sanvido, Terry; Smith, Regan M.; Allen, Thresa A.; Aucoin, Evelyn; Bentley, Corry; Clemons, Amy; Dahlke, Andrea; Denton, Rhonda L.; Evans, Casey; Murphy, Melissa Ann; Robinson, Rhonda; Stevens, Mechelle
+Subject: Estate Integration Test Dry Run - 1/10/2002
+
+
+Everyone,
+ 
+I have attached the preliminary schedule for tomorrow's test of the integration test scripts. For those individuals, who have been identified to participate in the test and are unable to attend at your scheduled time, please send me the name of your substitute as soon as possible. The current schedule allows plenty of time for each step. If the test is ahead of schedule, we may call you in at an earlier time.
+ 
+Thank You,
+ 
+Terry

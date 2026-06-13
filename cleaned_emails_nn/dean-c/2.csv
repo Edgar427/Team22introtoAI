@@ -1,0 +1,7 @@
+Date,From,To,Subject,Message
+"Thu, 7 Feb 2002 05:38:14 -0800 (PST)",pete.davis@enron.com,pete.davis@enron.com,Start Date: 2/7/02; HourAhead hour: 4;,"Start Date: 2/7/02; HourAhead hour: 4;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020704.txt
+###Cannot locate a Preferred or Revised_Preferred Schedule that matches the FINAL Individual Interchange Schedule.  Unable to assign deal number."

@@ -1,0 +1,45 @@
+Date: Tue, 5 Feb 2002 14:32:25 -0800 (PST)
+From: jeremy.wong@enron.com
+To: kam.keiser@enron.com
+Subject: FW: UBS curves
+
+
+Kam:
+
+The Financial desk also requested 3 books for WTI, HU and HO - do we need to preserve these curves in NetCo/UBS also?
+If so, we would need the curve codes/pub. codes.
+
+Thanks,
+Jeremy
+
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Tuesday, January 29, 2002 1:58 PM
+To:	Wong, Jeremy
+Cc:	Stock, Steve
+Subject:	FW: UBS curves
+
+Jeremy,
+
+Please make appropriate changes to the NETCO ERMS database for the following requests. What needs to be done is to delete all other curve entries in the egs_curve_def and egs_curve points and egs_pub_names which are not listed in the attached file. I will talk to you about it.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Keiser, Kam  
+Sent:	Tuesday, January 29, 2002 1:40 PM
+To:	Wei, Zhiyong
+Subject:	UBS curves
+
+ Zhiyong,
+
+We have decided to take the curve history with us to UBS for the attached curves.  We have changed the names for some of the curves so column J has additional curves that we would like to bring history.  We will not continue publishing those in the future however.
+
+
+Thanks
+
+Kam
+
+ 

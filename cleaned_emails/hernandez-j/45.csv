@@ -1,0 +1,15 @@
+Date,From,To,Subject,Message
+"Thu, 18 Oct 2001 07:37:15 -0700 (PDT)",andy.rodriquez@enron.com,"bill.rust@enron.com, m..presto@enron.com, lloyd.will@enron.com,",MISO Losses - MORE News,"After talking further with MISO folks about the new attachment M, it appears that the MISO will _effectively_ be requiring physical losses, although they don't come out and say that. Financial losses are essentially at the option of the TO, so we ""may"" be able to do Financial losses if the TOs want to offer the service.
+
+In more detail, this is how the process will work:
+
+TCs will use the MISO's loss calculator to identify impacted TOs
+If ALL TOs have provided financial loss pricing information, then it will be possible to buy losses
+If not, the TC will be required to self supply
+
+TOs can change their loss pricing (or desire to offer financial losses) every 12 hours.  Effectively, this means it will be difficult at best to manage risk associated with having the FIN rug pulled out from under us at scheduling time.  I will continue to work on this issue with Mike  and push for a financial solution that provides for our needs.
+
+Andy Rodriquez
+Regulatory Affairs - Enron Corp.
+andy.rodriquez@enron.com
+713-345-3771"

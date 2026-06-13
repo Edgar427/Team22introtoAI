@@ -1,0 +1,79 @@
+Date: Fri, 18 Jan 2002 09:24:31 -0800 (PST)
+From: d..hare@enron.com
+To: d..hare@enron.com, terry.sanvido@enron.com, r..brackett@enron.com, 
+	frank.hayden@enron.com, tammy.jaquet@enron.com, 
+	errol.mclaughlin@enron.com, torrey.moorer@enron.com, 
+	bernice.rodriguez@enron.com, tara.sweitzer@enron.com, 
+	s..theriot@enron.com, d..winfree@enron.com, mark.dupuy@enron.com, 
+	brian.gillis@enron.com, kevin.heal@enron.com, 
+	richard.mckeel@enron.com, kathy.reeves@enron.com, 
+	dianne.seib@enron.com, nikole.vander@enron.com, 
+	diane.anderson@enron.com, bob.bowen@enron.com, a..campos@enron.com, 
+	clarissa.garcia@enron.com, marlene.hilliard@enron.com, 
+	joe.hunter@enron.com, r..price@enron.com, 
+	stacey.richardson@enron.com, l..schrab@enron.com, 
+	russ.severson@enron.com, christopher.spears@enron.com, 
+	patti.sullivan@enron.com, ellen.wallumrod@enron.com, 
+	rita.wynne@enron.com, sundar.chitradurga@enron.com, 
+	steve.cinelli@enron.com, richard.elwood@enron.com, 
+	shawn.franks@enron.com, iain.greig@enron.com, m..harmon@enron.com, 
+	wade.hunter@enron.com, jeff.johnson@enron.com, ron.nolte@enron.com, 
+	ganapathy.ramesh@enron.com, aftab.saleem@enron.com, 
+	a..allen@enron.com, evelyn.aucoin@enron.com, corry.bentley@enron.com, 
+	amy.clemons@enron.com, andrea.dahlke@enron.com, l..denton@enron.com, 
+	casey.evans@enron.com, rhonda.robinson@enron.com, 
+	mechelle.stevens@enron.com, matt.pena@enron.com, 
+	chris.schomer@enron.com, ramesh.rao@enron.com, 
+	hilburn.henry@enron.com, john.warner@enron.com, 
+	bernice.rodriguez@enron.com, m..smith@enron.com
+Subject: NETCO Testing
+
+
+NOTE 1) New SAP Company Number from 0364 to 7001
+NOTE 2) SAP will notify Sundar when they are ready to accept data, no SAP customer or Vendor numbers are available at this time. 
+NOTE 3) All "Primary Flags" are Yes in all instances  
+
+
+I have completed the setup of the test NETCO Counterparty and address roles as follows:
+
+CP ID #167117
+
+Name: NETCO External Gas/Power 1 (With Good Credit)
+ERMS Short Name:NETCOEXTGAS
+
+Groups:Financial
+	Power-Houston
+
+Person Contact: Test NETCO
+
+Person Corresp: NETCO Correspondence
+
+Person Notice: NETCO Notice
+
+Fax Number: 713-646-8876 (fax on 25th floor) 
+
+Operation Effective Date: 12/01/2001
+
+Master Financial Executed: Set to Yes
+
+Bank Information: One Wire will be shared by all payments, partner bank will be 0011
+
+Address roles:
+    Product Category	Deal Nature	Contact Type		Mkt. Reg.	Legacy Group	     Legacy Contact Type                       1   Power Category	Financial	Confirmation		Any		Power		Financial Confirm
+2   Power Category	Financial	Invoice			Any		Power		FS Invoice
+3   Power Category	Financial	Payment		Any		Power		FS Payment
+4   Power Category	Physical	Confirmation		Any		Power		Physical Confirm
+5   Power Category	Physical	Correspondence		Any		Power		Correspondence
+6   Power Category	Physical	Invoice			Any		Power		Invoice
+7   Power Category	Physical	Notice			Any		Power		Notice
+8   Power Category	Physical	Payment		Any		Power		Payment
+9   Nat.Gas Category	Financial	Confirmation		Any		Documentation	Financial Confirmation
+10 Nat.Gas Category	Physical	Confirmation		Any		Documentation	Physical Confirmation
+11 Nat.Gas Category	Financial	Confirmation		Any		Documentation	Financial Confirmation
+12 Nat.Gas Category	Physical	Invoice			Any		Gas Sales		Invoice
+13 Nat.Gas Category	Physical	Payment		Any		Gas Payment		Payment
+14 Any Category	Financial	Invoice			Any		Financial Settle		FS Invoice
+15 Any Category	Financial	Payment		Any		Financial Settle		FS Payment
+16 Service Category	Physical	Invoice			Any		TransportatRevenue	Invoice
+17 Service Category	Physical	Payment		Any		Transportation Expense	Payment  	 		
+	

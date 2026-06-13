@@ -1,0 +1,4 @@
+Date,From,To,Subject,Message
+"Wed, 6 Feb 2002 11:19:03 -0800 (PST)",gelliott@industrialinfo.com,,WSCC (Coronado & Contra Costa) & FRCC (St Lucie) Forced Outages,"Dear Power Outage Database Customer, 
+Attached you will find an excel document. The outages contained within are forced outages. Your daily delivery will still contain these outages. 
+In addition to the excel document, there is a dbf file that is formatted like the daily delivery you receive nightly. This will enable you to load the data into your regular database. Any questions please let me know."

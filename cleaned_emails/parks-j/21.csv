@@ -1,0 +1,22 @@
+Date,From,To,Subject,Message
+"Fri, 12 Apr 2002 09:07:11 -0700 (PDT)","Parks, Joe","Hayden, Frank",var,"For VAR 95 using a Delta gamma approach
+1.645 * position * price * daily vol = VAR 
+
+Remember daily vol is implied vol divided by sqrt of time or 16 in this case.
+
+How do you like your new digs?
+
+ -----Original Message-----
+From: 	Parks, Joe  
+Sent:	Friday, April 12, 2002 7:58 AM
+To:	Hayden, Frank
+Subject:	var
+
+hey, how are you? can you send me an example of how you callculate var on contracts.
+
+for example: price is 3.10, 100 contracts, vol. 60%
+
+""SHOW ME THE MATH""
+
+JOE
+832-851-2821"

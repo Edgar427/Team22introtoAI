@@ -1,0 +1,26 @@
+Date,From,To,Subject,Message
+"Fri, 1 Feb 2002 11:49:54 -0800 (PST)","Smith, Regan M.=20","Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; =","PLEASE READ - Netco testing schedule for Monday, Feb 4th & Tuesday=","Updates...
+=20
+User Test Schedule
+Please review the attached user test schedule; I've updated for the name sw=
+aps as needed.
+The timeframe for SAP confirmation Tuesday 1pm, and I've moved Gas Settleme=
+nts to Tuesday am.  If time permits, we may be able to settle gas on Monday=
+ pm.
+=20
+Test Cases & Global Data
+The attached spreadsheet has the current global data and on tab page 2, the=
+ test cases.  We will still use the detailed test scenarios for entry.
+The global staff is updating the counterparties now/ and contracts to redis=
+tribute.
+=20
+I'm requesting for the deal entry users to please comment/ revise as to wha=
+t specific test cases are needed, and can be omitted.
+Unlike previous testing, we will be using real (active) counterparties, and=
+ need to test intercompany scenarios (UBS London to UBS Canada).
+We would like a subset for Power (ie 4), and a subset for Gas (6-8) that we=
+ can perform during this time.
+=20
+Can the respective Deal Entry groups discuss and send me your feedback toda=
+y?  I'm hoping to save calling a meeting.
+=20"

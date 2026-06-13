@@ -1,0 +1,29 @@
+Date: Wed, 6 Feb 2002 19:37:34 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 2/6/02; HourAhead hour: 22;
+
+
+
+
+Start Date: 2/6/02; HourAhead hour: 22;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020622.txt
+!!!General SQL error.
+Couldn't update; currently locked by user 'Admin' on machine 'NAHOU-TRDTS5'.
+Table
+
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstNW
+  MKT_TYPE: 2
+  TRANS_DATE: 2/6/02
+  TIE_POINT: MALIN_5_RNDMTN
+  INTERCHG_ID: ENRJ_CISO_3000
+  ENGY_TYPE: FIRM
+

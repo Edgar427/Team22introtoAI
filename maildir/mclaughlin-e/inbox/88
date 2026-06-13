@@ -1,0 +1,58 @@
+Date: Sun, 13 Jan 2002 07:43:55 -0800 (PST)
+From: d..hare@enron.com
+To: terry.sanvido@enron.com, r..brackett@enron.com, d..hare@enron.com, 
+	frank.hayden@enron.com, tammy.jaquet@enron.com, 
+	errol.mclaughlin@enron.com, torrey.moorer@enron.com, 
+	bernice.rodriguez@enron.com, tara.sweitzer@enron.com, 
+	s..theriot@enron.com, d..winfree@enron.com, mark.dupuy@enron.com, 
+	brian.gillis@enron.com, kevin.heal@enron.com, 
+	richard.mckeel@enron.com, kathy.reeves@enron.com, 
+	dianne.seib@enron.com, nikole.vander@enron.com, 
+	diane.anderson@enron.com, bob.bowen@enron.com, a..campos@enron.com, 
+	clarissa.garcia@enron.com, marlene.hilliard@enron.com, 
+	joe.hunter@enron.com, r..price@enron.com, 
+	stacey.richardson@enron.com, l..schrab@enron.com, 
+	russ.severson@enron.com, christopher.spears@enron.com, 
+	patti.sullivan@enron.com, ellen.wallumrod@enron.com, 
+	rita.wynne@enron.com, sundar.chitradurga@enron.com, 
+	steve.cinelli@enron.com, richard.elwood@enron.com, 
+	shawn.franks@enron.com, iain.greig@enron.com, m..harmon@enron.com, 
+	wade.hunter@enron.com, jeff.johnson@enron.com, ron.nolte@enron.com, 
+	ganapathy.ramesh@enron.com, aftab.saleem@enron.com, 
+	a..allen@enron.com, evelyn.aucoin@enron.com, corry.bentley@enron.com, 
+	amy.clemons@enron.com, andrea.dahlke@enron.com, l..denton@enron.com, 
+	casey.evans@enron.com, rhonda.robinson@enron.com, 
+	mechelle.stevens@enron.com, matt.pena@enron.com, 
+	chris.schomer@enron.com, ramesh.rao@enron.com, 
+	hilburn.henry@enron.com, john.warner@enron.com, 
+	bernice.rodriguez@enron.com, m..smith@enron.com
+Subject: Estate Testing Sunday
+
+
+I have completed the setup of the two Counterparties with the exception of SAP ID's.  I am waiting for the SAP run to complete and will resend this message with the SAP Customer and Vendor Numbers when the SAP job completes.
+Bill
+  I have setup two External Counterparties for the Estate Test today (Sunday) as follows: 
+	1) CP ID#167032 
+	- External Gas/Power 1 (with good credit) 
+	- Address Number 193019 
+	- SAP Customer ID  Waiting for SAP Run to complete and return ID
+	- SAP Vendor ID  Waiting for SAP Run to complete and return ID
+	- 1 wire will be shared; Partner Bank Niumber 0011 
+	- ERMS Code; EXTERNALGAS1W 
+	- Financial Link 
+	- Power-Houston Link 
+	- Person Contact Link; Test Estate 
+	- Operational Effective Date; 12/01/2001 
+	- Fax Number; 713-646-8876 
+	- Address Roles 
+	ENA 
+	o Financial Invoice, Financial Payment, Financial Confirm 
+	o Natural Gas Physical Invoice, Natural Gas Physical Payment, Natural Gas Physical Confirmation 
+	o Power Financial Invoice, Power Financial Payment, Power Financial Confirmation 
+	o Service Physical Invoice, Service Physical Payment 
+	EPMI 
+	o Power Physical Invoice, Power Physical Payment, Power Physical Confirmation 
+
+	2) CP ID# 167034 
+	- External Gas/Power 2 (with Bad credit) 
+	- ERMS Code; EXTERNALGAS2PW 

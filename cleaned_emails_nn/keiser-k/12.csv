@@ -1,0 +1,24 @@
+Date,From,To,Subject,Message
+"Thu, 31 Jan 2002 09:07:56 -0800 (PST)","Kenne, Dawn C.","Gossett, Jeffrey C.; Keiser, Kam; Theriot, Kim S.; Meredith, Kevin; Denny, Jennifer",Counterparties w/Master Agreements with ECC,"Until I hear from one of you guys on legal's decision, the logic will remain as it is and will bridge that way when we go live.  
+
+Dawn
+
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Thursday, January 31, 2002 8:43 AM
+To:	Kenne, Dawn C.; Keiser, Kam; Theriot, Kim S.; Meredith, Kevin; Denny, Jennifer
+Subject:	RE: Counterparties w/Master Agreements with ECC
+
+I think that is a legal question as to what the entities will look like.  If they look exactly the same,  then that is what we have to do.
+
+ -----Original Message-----
+From: 	Kenne, Dawn C.  
+Sent:	Thursday, January 31, 2002 8:35 AM
+To:	Gossett, Jeffrey C.; Keiser, Kam; Theriot, Kim S.; Meredith, Kevin; Denny, Jennifer
+Subject:	Counterparties w/Master Agreements with ECC
+
+This is how the logic is now within UBSWenergy.com:
+
+All counterparties with Master Agreements with ECC that hit a US product must be booked as two legs:  leg one booked between ECC and the counterparty with risk assignment of FT-US/CAND-ERMS; leg two flipping the position out of FT-US/CAND-ERMS to the appropriate risk book (the book on the online product).  This applies only to finanical swaps and not physical deals.
+
+Please let me know if there is going to be a change and if so what the deals should look like in Tagg.  The programmers need time to modify logic and I need time to test!"

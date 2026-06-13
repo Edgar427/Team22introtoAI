@@ -1,0 +1,41 @@
+Date,From,To,Subject,Message
+"Sun, 20 Jan 2002 14:32:12 -0800 (PST)",pete.davis@enron.com,pete.davis@enron.com,Schedule Crawler: DayAhead Failure,"Start Date: 1/21/02; DayAhead market;  DayAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002012116.txt
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database"

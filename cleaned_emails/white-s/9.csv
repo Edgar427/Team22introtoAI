@@ -1,0 +1,19 @@
+Date,From,To,Subject,Message
+"Tue, 29 Jan 2002 10:50:54 -0800 (PST)","Evans, Casey","Hare, Bill D.; Cheung, Cecilia; Smith, Will; Lee, Norman; Valdes, John",Revised East Power UBS Book Listing,"Casey,
+
+Currently we have the following books set up in ERMTP, and only PWR-GAS-SE has been set up from your list and the others are not found.  Also we do not inactivate books on our side.  But I think they can be inactivated on Risktrac side.
+
+166969	PWR-GAS-CALI
+166965	PWR-GAS-ERCOT
+166973	PWR-GAS-MGMT
+166963	PWR-GAS-MW
+166962	PWR-GAS-NE
+166967	PWR-GAS-NW
+166961	PWR-GAS-OPTION
+166964	PWR-GAS-SE
+166968	PWR-GAS-SW
+166966	PWR-GAS-WMGMT
+
+
+John,
+Please advise if the books are already set up in Global and I'll set them up in Erms."

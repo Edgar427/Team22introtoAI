@@ -1,0 +1,30 @@
+Date,From,To,Subject,Message
+"Wed, 28 Nov 2001 15:28:48 -0800 (PST)",crcommunications@caiso.com,"20participants@caiso.com, 20employees@caiso.com",CAISO Notice - IP Address of CAISO Web Server,"MARKET NOTICE
+November 27, 2001
+
+ Technical Market Notice
+ISO Market Participants:
+
+On 6-Dec-2001 at approximately 18:00 (6:00 PM) PST, the California ISO will
+change the IP address of one of its web servers. The web server at
+""www1.caiso.com"" will be unavailable for approximately 1 hour during this
+change.
+ 
+This is an IP address change only. Domain names for this server will remain
+the same. Unless you are using the IP address for this server, you should
+see no impact from this change. After the IP change, the following will be
+in effect:
+ 
+The recommended domain name, www.caiso.com <http://www.caiso.com> will
+return 64.95.119.98 and 216.102.255.66.
+
+ The domain name www1.caiso.com will return 64.95.119.98.
+ The domain name www2.caiso.com will return 216.102.255.66.
+ 
+For questions regarding this change, please contact  webmaster@caiso.com
+<mailto:webmaster@caiso.com>.
+
+ 
+
+Client Relations Communications.0921
+CRCommunications@caiso.com"

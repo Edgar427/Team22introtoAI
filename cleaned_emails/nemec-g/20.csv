@@ -1,0 +1,19 @@
+Date,From,To,Subject,Message
+"Fri, 26 Oct 2001 15:28:31 -0700 (PDT)","Richardson, Stacey","Nemec, Gerald",ENA Upstream issues,"The last day of the month should be used as the default. We are only changing this date when counterparties have been settling with ENA on a different date.
+
+Judy
+
+ -----Original Message-----
+From: 	Richardson, Stacey  
+Sent:	Friday, October 26, 2001 1:17 PM
+To:	Nemec, Gerald
+Cc:	Gonzales, Sharon; Elledge, Susan; Anderson, Bridgette; Campos, Anthony; Wallumrod, Ellen; Thorne, Judy; Theriot, Kim S.
+Subject:	ENA Upstream issues
+
+Gerald,
+
+On the Wellhead purchase GTC with keep whole provisions, the payment date is either the last day of the month following delivery or the 25th day of the month following delivery.  I understand this date will be decided on a deal-by-deal basis, but I still need to have a date to input into our Global Contracts template.  Since ENA Upstream is the purchaser, I'd prefer to use the last day of the month for our template (for cash flow purposes), but I'd like you to confirm which one we should use as a default of sorts.
+
+I also wanted to check on the status of the Point Specific GTC you've been working on.  Are we close to having a final version?  Please remember that I need to be copied on any versions of the GTC or confirmation, since that data drives what we input in Global Contracts.
+
+Please get back to me as soon as possible (I'm setting up the template in Global Contracts right now).  Feel free to call me at x30569 if you have any questions."

@@ -1,0 +1,4 @@
+Date,From,To,Subject,Message
+"Fri, 1 Feb 2002 09:58:43 -0800 (PST)",gelliott@industrialinfo.com,,"MAIN (Callaway), ERCOT (Tradinghouse & Big Brown, & WSCC (Four","Dear Power Outage Database Customer, 
+Attached you will find an excel document. The outages contained within are forced or rescheduled outages. Your daily delivery will still contain these outages. 
+In addition to the two excel documents, there is a dbf file that is formatted like your daily deliveries you receive nightly. This will enable you to load the data into your regular database. Any questions please let me know."

@@ -1,0 +1,29 @@
+Date,From,To,Subject,Message
+"Fri, 26 Oct 2001 12:38:04 -0700 (PDT)",pete.davis@enron.com,pete.davis@enron.com,Start Date: 10/26/01; HourAhead hour: 12;  <CODESITE>,"Start Date: 10/26/01; HourAhead hour: 12;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001102612.txt
+
+Error retrieving HourAhead price data - process continuing...
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 10/26/01
+  TIE_POINT: PVERDE_5_DEVERS
+  INTERCHG_ID: CISO_EPMI_APS
+  ENGY_TYPE: NFRM
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTRT
+  MKT_TYPE: 2
+  TRANS_DATE: 10/26/01
+  TIE_POINT: PVERDE_5_DEVERS
+  INTERCHG_ID: CISO_EPMI_EPE
+  ENGY_TYPE: NFRM"

@@ -1,0 +1,45 @@
+Date,From,To,Subject,Message
+"Thu, 21 Mar 2002 11:23:18 -0800","""Motley, Matt"" <Matt.Motley@ENRON.com>",mmattthew36@qwest.net,,"Hi. This is the qmail-send program at mail2.uswest.net.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<mmattthew36@qwest.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <Matt.Motley@enron.com>
+Received: (qmail 56210 invoked by uid 0); 21 Mar 2002 19:23:20 -0000
+Received: from unknown (HELO postmaster.enron.com) (192.152.140.9)
+  by mail2.uswest.net with SMTP; 21 Mar 2002 19:23:20 -0000
+Received: from nahou-msmsw01p.corp.enron.com (nahou-msmsw01p.corp.enron.com [192.168.110.108])
+	by postmaster.enron.com (8.10.1/8.10.1/external_corp-1.08) with ESMTP id g2LJNK012746
+	for <mmattthew36@qwest.net>; Thu, 21 Mar 2002 13:23:20 -0600 (CST)
+Received: from nahou-mscnx07p.corp.enron.com (unverified) by nahou-msmsw01p.corp.enron.com
+ (Content Technologies SMTPRS 4.2.5) with SMTP id <T59c5770230c0a86e6c84c@nahou-msmsw01p.corp.enron.com> for <mmattthew36@qwest.net>;
+ Thu, 21 Mar 2002 13:23:20 -0600
+Received: from napdx-msmbx03p.corp.enron.com ([172.17.172.245]) by nahou-mscnx07p.corp.enron.com with Microsoft SMTPSVC(5.0.2195.2966);
+	 Thu, 21 Mar 2002 13:23:19 -0600
+Date: Thu, 21 Mar 2002 11:23:18 -0800
+Message-ID: <707CCCB980AD8C48AAFA1FD15A1590C403CB2A@napdx-msmbx03p.corp.enron.com>
+From: ""Motley, Matt"" <Matt.Motley@ENRON.com>
+To: mmattthew36@qwest.net
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=""{DA03EAE0-2E6E-409C-A8EA-44B1AF3FDE7E}""
+Content-Description: BuddyList.blt
+content-class: urn:content-classes:message
+X-MimeOLE: Produced By Microsoft Exchange V6.0.5762.3
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+Thread-Index: AcHRDdtPO5qQdyiKTdaEzPbvzdPeGw==
+X-OriginalArrivalTime: 21 Mar 2002 19:23:19.0882 (UTC) FILETIME=[DBFF82A0:01C1D10D]
+
+--{DA03EAE0-2E6E-409C-A8EA-44B1AF3FDE7E}
+Content-Type: text/plain; charset=""us-ascii""
+
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and may contain confidential and privileged material for the sole use of the intended recipient (s). Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender or reply to Enron Corp. at enron.messaging.administration@enron.com and delete all copies of the message. This e-mail (and any attachments hereto) are not intended to be an offer (or an acceptance) and do not create or evidence a binding and enforceable contract between Enron Corp. (or any of its affiliates) and the intended recipient or any other party, and may not be relied on by anyone as the basis of a contract by estoppel or otherwise."

@@ -1,0 +1,18 @@
+Date,From,To,Subject,Message
+"Thu, 14 Feb 2002 12:55:27 -0800 (PST)",center.ets@enron.com,"william.aldinger@enron.com, dennis.alters@enron.com, a..ayres@enron.com,",ETS and Corporate Change Control,"The following items were presented in this week's corporate change control....
+
+Feb. 13
+From 5:00 p.m.  through 2/14 at 6:00 a.m., the Envision team will perform hardware maintenance on the Envision system.  This outage will affect corporate-wide applications accessing the Envision web query, FileNet Panagon IDM Desktop, FileNet IDM for R3, Panagon Capture professional. Users will be able to access IBuyit and IPayit from SAP but will not be able to view invoices. 
+Feb. 14	
+At 12:00 noon, Enron Network Services will disable advertisement of the 172.29.0.0 networks on the OmahaCisco router.  This is to prevent unwanted traffic from routing through Northern Border.  No impact is expected.
+Feb. 15
+Beginning today, the Application Scripting team will modify the script for Instant messanger to allow parameters.  No impact is expected.
+
+Feb. 15
+From 10:30 - 11:00 p.m., Enron Network Services will fail over Internet traffic to the primary firewall.  This change will result in a 10-15 second outage for Internet traffic and access to servers on the 192.189.171.0 and 65.201.84.0 DMZ segments.  This change will be coordinated with HotTap and will not take place until processing is completed.  Support staff with application servers on the DMZ should plan on testing their applications after this change.
+
+Feb. 16
+From 10:30 - 11:30 p.m., the Omaha Infrastructure team will reconfigure the power connections for the Omaha Inverse MUX.  This change will result in a total disruption of IP communication between Omaha and Houston.  The outage should only last for a few minutes.  The maintenance time will be coordinated with the HotTap helpdesk to ensure processing has been completed.  All support staff whose applications are affected by this outage should communicate this change to their customers.  Please ensure they are aware of the possibility of an extended outage in the event the Inverse MUX does not properly re-establish communications.  LAT and DecNet communications for gas control will not be affected by this maintenance.
+
+ETS Solution Center - Houston, at 713-345-4745
+ETS Solution Center - Omaha, at 402-398-7454"
